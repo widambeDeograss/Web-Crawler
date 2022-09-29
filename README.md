@@ -70,13 +70,15 @@ An information gathering platform that collects open source information from dif
 ### Installation
 
 ```
-git clone http://196.192.78.28:8082/noberto/spiderweb.git 
+git clone https://github.com/widambeDeograss/Web-Crawler.git
+
 ```
 
 <div style="margin:auto">OR</div> 
 
 ```
-git clone git@196.192.78.28:noberto/spiderweb.git
+git clone https://github.com/widambeDeograss/Web-Crawler.git
+
 ```
 
 ## Usage
@@ -140,8 +142,6 @@ scrapy crawl body -o \<filename>.csv/json/jl/xml<br>
 
 ## Support
 
-
-Together, we can make SpiderWeb **better**!
 
 ## License
 
